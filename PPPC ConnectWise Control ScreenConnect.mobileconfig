@@ -95,7 +95,7 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>CompNow ScreenConnect PPPC</string>
+	<string>PPC ConnectWise Control ScreenConnect</string>
 	<key>PayloadEnabled</key>
 	<true/>
 	<key>PayloadIdentifier</key>
