@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>PPPC Zoom.us</string>
+			<key>PayloadDisplayName</key>
+			<string>PPPC Zoom.us</string>
+			<key>PayloadIdentifier</key>
+			<string>35E7F4AE-354A-4108-91F0-064D2FB4E2ZZ</string>
+			<key>PayloadOrganization</key>
+			<string>Aaron David Polley</string>
+			<key>PayloadType</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadUUID</key>
+			<string>AD753C7C-1BA5-40F9-9553-C94F3202F3F7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<dict>
+				<key>Accessibility</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "us.zoom.xos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>us.zoom.xos</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+				<key>AppleEvents</key>
+				<array>
+					<dict>
+						<key>AEReceiverCodeRequirement</key>
+						<string>identifier "com.microsoft.Outlook" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UBF8T346G9</string>
+						<key>AEReceiverIdentifier</key>
+						<string>com.microsoft.Outlook</string>
+						<key>AEReceiverIdentifierType</key>
+						<string>bundleID</string>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "us.zoom.pluginagent" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>us.zoom.pluginagent</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+				<key>SystemPolicyDesktopFolder</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "us.zoom.xos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>us.zoom.xos</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+				<key>SystemPolicyDocumentsFolder</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "us.zoom.xos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>us.zoom.xos</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+				<key>SystemPolicyDownloadsFolder</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "us.zoom.xos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>us.zoom.xos</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>PPPC Zoom.us</string>
+	<key>PayloadDisplayName</key>
+	<string>PPPC Zoom.us</string>
+	<key>PayloadIdentifier</key>
+	<string>35E7F4AE-354A-4108-91F0-064D2FB4E2ZZ</string>
+	<key>PayloadOrganization</key>
+	<string>Aaron David Polley</string>
+	<key>PayloadType</key>
+	<string>com.apple.TCC.configuration-profile-policy</string>
+	<key>PayloadUUID</key>
+	<string>066A7853-84FD-40DA-853C-77DAC35D2B8E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>payloadScope</key>
+	<string>system</string>
+</dict>
+</plist>
