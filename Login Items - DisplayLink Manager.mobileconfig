@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoLaunchedApplicationDictionary-managed</key>
+			<array>
+				<dict>
+					<key>AuthenticateAsLoginUserShortName</key>
+					<false/>
+					<key>Hide</key>
+					<true/>
+					<key>Path</key>
+					<string>/Applications/DisplayLink Manager.app/Contents/Library/LoginItems/DisplayLinkLoginHelper.app</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Login Items</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.loginitems.managed.462F38A7-78C5-4024-A9AA-6AFECB2CB723</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginitems.managed</string>
+			<key>PayloadUUID</key>
+			<string>462F38A7-78C5-4024-A9AA-6AFECB2CB723</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Login Items - DisplayLink Manager</string>
+	<key>PayloadIdentifier</key>
+	<string>aarondavidpolley.4E85ED71-A3FB-4CFC-8266-20D8F5CFB332</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6575F267-7D66-4318-90BB-B0A47B3FEDD4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
