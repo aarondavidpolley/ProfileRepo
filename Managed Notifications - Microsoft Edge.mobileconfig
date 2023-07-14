@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>NotificationSettings</key>
+			<array>
+				<dict>
+					<key>AlertType</key>
+					<integer>1</integer>
+					<key>BadgesEnabled</key>
+					<true/>
+					<key>BundleIdentifier</key>
+					<string>com.microsoft.msedge</string>
+					<key>CriticalAlertEnabled</key>
+					<false/>
+					<key>NotificationsEnabled</key>
+					<true/>
+					<key>ShowInCarPlay</key>
+					<true/>
+					<key>ShowInLockScreen</key>
+					<false/>
+					<key>ShowInNotificationCenter</key>
+					<true/>
+					<key>SoundsEnabled</key>
+					<true/>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Notifications</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.notificationsettings.AE7B6EEC-4D2C-4CBF-99A0-89663D84CFD6</string>
+			<key>PayloadType</key>
+			<string>com.apple.notificationsettings</string>
+			<key>PayloadUUID</key>
+			<string>AE7B6EEC-4D2C-4CBF-99A0-89663D84CFD6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Managed Notifications - Microsoft Edge</string>
+	<key>PayloadIdentifier</key>
+	<string>com.gthub.aarondavidpolley.7BA8D339-BBE0-4ABF-A779-BA70AE25F8ED</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7BA8D339-BBE0-4ABF-A779-BA70AE25F8ED</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
