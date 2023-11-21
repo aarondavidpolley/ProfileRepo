@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>BlockExternalExtensions</key>
+			<true/>
+			<key>BookmarkBarEnabled</key>
+			<true/>
+			<key>BrowserSignin</key>
+			<integer>0</integer>
+			<key>DefaultPluginsSetting</key>
+			<integer>2</integer>
+			<key>DefaultSearchProviderEnabled</key>
+			<true/>
+			<key>DefaultSearchProviderName</key>
+			<string>Google</string>
+			<key>DefaultSearchProviderSearchURL</key>
+			<string>https://www.google.com/search?q={searchTerms}</string>
+			<key>DisableSafeBrowsingProceedAnyway</key>
+			<true/>
+			<key>ExtensionAllowedTypes</key>
+			<array>
+				<string>extension</string>
+				<string>hosted_app</string>
+				<string>legacy_packaged_app</string>
+				<string>platform_app</string>
+				<string>theme</string>
+				<string>user_script</string>
+			</array>
+			<key>ExtensionInstallAllowlist</key>
+			<array>
+				<string>ggjhpefgjjfobnfoldnjipclpcfbgbhl</string>
+			</array>
+			<key>ExtensionInstallBlocklist</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>ExtensionInstallForcelist</key>
+			<array>
+				<string>ggjhpefgjjfobnfoldnjipclpcfbgbhl</string>
+			</array>
+			<key>ForceGoogleSafeSearch</key>
+			<true/>
+			<key>HomepageIsNewTabPage</key>
+			<true/>
+			<key>HomepageLocation</key>
+			<string>https://www.compnow.com.au/</string>
+			<key>ManagedBookmarks</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Compnow Home</string>
+					<key>url</key>
+					<string>https://www.compnow.com.au/</string>
+				</dict>
+			</array>
+			<key>NewTabPageLocation</key>
+			<string>https://www.compnow.com.au/</string>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome</string>
+			<key>PayloadIdentifier</key>
+			<string>com.google.Chrome.A70C8195-4F54-4AB8-9199-FF02E61E70D2</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>DDD0BD5C-2D01-4AB6-BDD7-958526517E8D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RestoreOnStartup</key>
+			<integer>5</integer>
+			<key>RestrictSigninToPattern</key>
+			<string>.*compnow.com.au</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Managed Google Chrome Preferences</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.aarondavidpolley.77BDEC75-9E17-485A-90BD-66573E200582</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7812476D-FBD8-4184-BBD4-618764CB3DF3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
