@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowVisualBasicToBindToSystem</key>
+			<false/>
+			<key>ConnectedOfficeExperiencesPreference</key>
+			<true/>
+			<key>DiagnosticDataTypePreference</key>
+			<string>BasicDiagnosticData</string>
+			<key>DisableVisualBasicExternalDylibs</key>
+			<false/>
+			<key>DisableVisualBasicMacScript</key>
+			<false/>
+			<key>DisableVisualBasicToBindToPopen</key>
+			<false/>
+			<key>OfficeAutoSignIn</key>
+			<true/>
+			<key>OfficeExperiencesAnalyzingContentPreference</key>
+			<true/>
+			<key>OfficeExperiencesDownloadingContentPreference</key>
+			<true/>
+			<key>OptionalConnectedExperiencesPreference</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Office</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.office.9F6C8A62-BA0E-4B0B-B5E7-6F8F508E675B</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.office</string>
+			<key>PayloadUUID</key>
+			<string>9F6C8A62-BA0E-4B0B-B5E7-6F8F508E675B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<true/>
+			<key>ShowWhatsNewOnLaunch</key>
+			<false/>
+			<key>TermsAccepted1809</key>
+			<true/>
+			<key>VBAObjectModelIsTrusted</key>
+			<false/>
+			<key>VisualBasicMacroExecutionState</key>
+			<string>DisabledWithWarnings</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Managed Microsoft Office Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.aarondavidpolley.6126A795-D23E-40B0-B4D0-71E52B11E90F</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6126A795-D23E-40B0-B4D0-71E52B11E90F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
