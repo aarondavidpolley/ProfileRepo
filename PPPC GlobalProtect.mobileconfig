@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>PPPC GlobalProtect</string>
+			<key>PayloadDisplayName</key>
+			<string>PPPC GlobalProtect</string>
+			<key>PayloadIdentifier</key>
+			<string>B350BC7A-208F-48DE-A3E0-12D4BEF08442</string>
+			<key>PayloadOrganization</key>
+			<string>AaronDavidPolley</string>
+			<key>PayloadType</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadUUID</key>
+			<string>EED80389-4329-4144-953D-EAF7895995AE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<dict>
+				<key>SystemPolicyAllFiles</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "com.paloaltonetworks.GlobalProtect.client" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = PXPZ95SK77</string>
+						<key>Comment</key>
+						<string></string>
+						<key>Identifier</key>
+						<string>com.paloaltonetworks.GlobalProtect.client</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>PPPC GlobalProtect</string>
+	<key>PayloadDisplayName</key>
+	<string>PPPC GlobalProtect</string>
+	<key>PayloadIdentifier</key>
+	<string>B350BC7A-208F-48DE-A3E0-12D4BEF08442</string>
+	<key>PayloadOrganization</key>
+	<string>AaronDavidPolley</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>357F9D28-F7AC-4166-B51F-FA4DBEFF44F5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
